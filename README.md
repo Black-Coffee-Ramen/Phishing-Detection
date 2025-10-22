@@ -1,6 +1,6 @@
 # AI-Powered Phishing Domain Detection System
 
-## 📋 Project Overview
+## Project Overview
 
 This project implements an AI-based monitoring and detection system for identifying phishing domains and URLs targeting Critical Sector Entities (CSEs). The solution uses machine learning to automatically detect and classify suspicious domains in near real-time, helping prevent data breaches and financial losses.
 
@@ -10,7 +10,7 @@ This project implements an AI-based monitoring and detection system for identify
 - Provide real-time alerts and comprehensive reporting
 - Scale to process millions of domains efficiently
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Phishing attacks remain one of the most persistent cybersecurity threats, with attackers registering domains that closely resemble legitimate Critical Sector Entities (CSEs) to deceive users into revealing sensitive information. Traditional detection methods are insufficient against evolving tactics like:
 - Typosquatting/lookalike domains
@@ -20,7 +20,7 @@ Phishing attacks remain one of the most persistent cybersecurity threats, with a
 
 **Real-world Significance:** This solution addresses urgent needs in banking, government, and critical infrastructure sectors where phishing attacks can lead to massive data breaches, financial losses, and national security threats.
 
-## 📊 Data Sources
+## Data Sources
 
 ### Training Dataset (`PS02_Training_set/`)
 - **Source:** NCIIPC AI Grand Challenge
@@ -104,7 +104,7 @@ C:.
         PS-02_AIGR-123456_Submission_Set.xlsx
 ```
 
-## 🔧 Approach & Methodology
+##  Approach & Methodology
 
 ### Data Preprocessing
 - Automated dataset loading and validation
@@ -137,7 +137,7 @@ C:.
 4. **Alert Generation** → Confidence-based scoring
 5. **Monitoring** → Continuous domain tracking
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 | Metric | Value | Description |
 |--------|-------|-------------|
@@ -153,7 +153,7 @@ C:.
 - Approach Methodology: 20%
 - Team Capability: 10%
 
-## 🎯 Results Summary
+##  Results Summary
 
 ### Model Performance
 - **Training Accuracy:** 90.43% on 1,043 domains
@@ -175,7 +175,7 @@ C:.
 - **Feature Importance:** `outputs/feature_importance.png`
 - **Feature Distributions:** `outputs/feature_distributions.png`
 
-## 🛠 Dependencies & Requirements
+##  Dependencies & Requirements
 
 ### Core Python Libraries
 ```python
@@ -200,7 +200,7 @@ pip install -r requirements.txt
 pip install pandas scikit-learn xgboost tldextract python-whois requests beautifulsoup4 openpyxl joblib
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 ### Step 1: Initial Setup
 ```bash
@@ -246,7 +246,7 @@ python src/analyze_features.py
 python src/monitoring/domain_monitor.py
 ```
 
-## 🔮 Future Work
+##  Future Work
 
 ### Immediate Improvements
 - [ ] **Real-time Dashboard:** Web interface for monitoring and alerts
@@ -265,7 +265,7 @@ python src/monitoring/domain_monitor.py
 - [ ] **Cloud Deployment:** AWS/Azure scalable architecture
 - [ ] **Stream Processing:** Kafka for real-time domain feeds
 
-## 👥 Contributors & Acknowledgments
+##  Contributors & Acknowledgments
 
 ### Team
 - **Developer:** Athiyo Chakma
@@ -308,10 +308,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 📞 Support & Contact
+##  Support & Contact
 
 For questions, issues, or contributions:
-- **Email:** [athiyo22118@iiitd.ac.in]
+- **Email:** athiyo22118@iiitd.ac.in
 - **GitHub Issues:** [Project Repository Issues]
 - **Documentation:** [Link to detailed documentation]
 
