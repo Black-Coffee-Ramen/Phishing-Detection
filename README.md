@@ -268,8 +268,8 @@ python src/monitoring/domain_monitor.py
 ## 👥 Contributors & Acknowledgments
 
 ### Team
-- **Developer:** Atharva Desai
-- **Institution:** [Your University/Organization]
+- **Developer:** Athiyo Chakma
+- **Institution:** Indraprastha Institute of Information Technology Delhi
 - **Competition:** NCIIPC AI Grand Challenge 2025
 
 ### Acknowledgments
@@ -311,7 +311,7 @@ SOFTWARE.
 ## 📞 Support & Contact
 
 For questions, issues, or contributions:
-- **Email:** [Your Email]
+- **Email:** [athiyo22118@iiitd.ac.in]
 - **GitHub Issues:** [Project Repository Issues]
 - **Documentation:** [Link to detailed documentation]
 
