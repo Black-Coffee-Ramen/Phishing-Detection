@@ -312,7 +312,7 @@ SOFTWARE.
 
 For questions, issues, or contributions:
 - **Email:** athiyo22118@iiitd.ac.in
-- **GitHub Issues:** [Project Repository Issues]
+- **GitHub Issues:** https://github.com/Black-Coffee-Ramen/Phishing-Detection/issues
 - **Documentation:** [Link to detailed documentation]
 
 ---
