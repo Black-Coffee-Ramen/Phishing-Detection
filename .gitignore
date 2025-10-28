@@ -1,0 +1,8 @@
+# .gitignore
+__pycache__/
+*.pyc
+outputs/
+evidences_temp/
+models/*.pkl
+.DS_Store
+.env
