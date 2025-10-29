@@ -223,7 +223,7 @@ C:.
 │   │   │   capture_evidence.py (for top 500 high conf sites)
 │   │   │   cse_mapper.py
 │   │   │   data_loader.py (loading training set data)
-│   │   │   enrich_data.py (saves to outputs/enriched_predictions.csv)
+│   │   │   enrich_data.py (saves to outputs/enriched_predictions.csv with other data like whois , ip addr , registrar,domain_creation_date,registrant_country,hosting_ip,mx_records,asn,hosting_isp,hosting_country,has_ssl)
 │   │   │   inspect_data.py (display preview 1st 5 row/coloumn)
 │   │   │   pdf_generator.py (takes screenshots as PDF in evidences_temp/)
 │   │   │   submission_helper.py
